@@ -11,3 +11,6 @@ Objective : predict clients' repayment abilities.
 . previous_application_POS_CASH.ipynb ---> Statistics on all previous applications for Home Credit loans of clients 1) repayment history for the previously disbursed credits in Home Credit, 2) previous POS (point of sales) and cash loans that the applicant had with Home Credit, 3) previous credit cards that the applicant has with Home Credit
 
 . installments_payment.ipynb ---> Statistics on repayment history for the previously disbursed credits in Home Credit related to the loans.
+
+# Version 1.0
+Score: 0.783
